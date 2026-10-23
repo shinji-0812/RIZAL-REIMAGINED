@@ -13,7 +13,7 @@ const works = [
     cover: "NOLI ME TANGERE",
     className: "cover-one",
     link : "https://www.gutenberg.org/cache/epub/20228/pg20228-images.html",
-    image: "/src/assets/Nolime.png"
+    image: "/Nolime.png"
   },
   {
     number: "02",
@@ -25,7 +25,7 @@ const works = [
     cover: "EL FILIBUSTERISMO",
     className: "cover-two",
     link : "https://www.gutenberg.org/cache/epub/10676/pg10676-images.html",
-    image: "/src/assets/elfili.png"
+    image: "/elfili.png"
   },
   {
     number: "03",
@@ -37,7 +37,7 @@ const works = [
     cover: "LA SOLIDARIDAD",
     className: "cover-three",
     link : "https://en.wikipedia.org/wiki/La_Solidaridad",
-    image: "/src/assets/lasoli.png"
+    image: "/lasoli.png"
   },
   {
     number: "04",
@@ -49,7 +49,7 @@ const works = [
     cover: "LA LIGA FILIPINA",
     className: "cover-four",
     link : "https://tl.wikipedia.org/wiki/La_Liga_Filipina",
-    image: "/src/assets/lalega.png"
+    image: "/lalega.png"
   },
 ];
 
@@ -321,32 +321,32 @@ function App() {
 
 
               <img
-                src="./src/assets/pans.png"
+                src="/pans.png"
                 alt="José Rizal"
                 width="150"
                 height="150"
               /><span>PANON, JOHN DAVE</span>
 
               <img
-                src="./src/assets/mercs.png"
+                src="/mercs.png"
                 alt="José Rizal"
                 width="150"
                 height="150"
               /><span>MERCADAL, SAM OLIVER</span>
               <img
-                src="./src/assets/ayon.png"
+                src="/ayon.png"
                 alt="José Rizal"
                 width="150"
                 height="150"
               /><span>AYON, JOHN WREIN</span>
               <img
-                src="/src/assets/Abdul.png"
+                src="/Abdul.png"
                 alt="José Rizal"
                 width="150"
                 height="150"
               /><span>ABDUL, Alim</span>
               <img
-                src="./src/assets/Danz.png"
+                src="/Danz.png"
                 alt="DANIEL"
                 width="150"
                 height="150"
