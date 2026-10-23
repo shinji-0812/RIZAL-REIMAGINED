@@ -321,20 +321,20 @@ function App() {
 
 
               <img
-                src="/src/assets/pans.png"
+                src="./src/assets/pans.png"
                 alt="José Rizal"
                 width="150"
                 height="150"
               /><span>PANON, JOHN DAVE</span>
 
               <img
-                src="/src/assets/mercs.png"
+                src="./src/assets/mercs.png"
                 alt="José Rizal"
                 width="150"
                 height="150"
               /><span>MERCADAL, SAM OLIVER</span>
               <img
-                src="/src/assets/ayon.png"
+                src="./src/assets/ayon.png"
                 alt="José Rizal"
                 width="150"
                 height="150"
@@ -346,7 +346,7 @@ function App() {
                 height="150"
               /><span>ABDUL, Alim</span>
               <img
-                src="/src/assets/Danz.png"
+                src="./src/assets/Danz.png"
                 alt="DANIEL"
                 width="150"
                 height="150"
